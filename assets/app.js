@@ -1,12 +1,19 @@
 const products=[
- {id:'social',title:'Social Media Post Templates',category:'Templates',type:'CANVA · 240 POSTS',license:'PLR',image:'01-social-media.jpg'},
- {id:'marketing',title:'Digital Marketing Strategy Guide',category:'E-books',type:'PDF · 86 PAGES',license:'PLR',image:'02-marketing.jpg'},
- {id:'reels',title:'1,000+ Reels Content Bundle',category:'Social Media',type:'MP4 · ZIP',license:'MRR',image:'03-reels.jpg'},
- {id:'business',title:'Business Plan Workbook',category:'E-books',type:'PDF · 74 PAGES',license:'PLR',image:'04-business.jpg'},
- {id:'email',title:'Email Marketing Templates',category:'Templates',type:'DOCX · 60 EMAILS',license:'PLR',image:'05-email.jpg'},
- {id:'mindset',title:'Mindset & Habits Mastery',category:'E-books',type:'PDF · 114 PAGES',license:'MRR',image:'06-mindset.jpg'},
- {id:'website',title:'Website Templates Bundle',category:'Templates',type:'HTML · ZIP',license:'COMMERCIAL',image:'07-website.jpg'},
- {id:'youtube',title:'YouTube Thumbnail Templates',category:'Design',type:'PSD · 120 FILES',license:'PLR',image:'08-youtube.jpg'}
+ {id:'hd-stock-video',title:'HD Stock Video Footage',category:'Video',type:'MP4 · 61.2 GB',license:'PLR',image:'hd-stock-video.svg'},
+ {id:'music-producer-bundles',title:'Music Producer Bundles',category:'Audio',type:'WAV/MIDI · 23.4 GB',license:'MRR',image:'music-producer-bundles.svg'},
+ {id:'after-effects-assets',title:'After Effects Assets',category:'Video',type:'AEP · 23.1 GB',license:'PLR',image:'after-effects-assets.svg'},
+ {id:'audio-track-bundles',title:'Audio Track Bundles',category:'Audio',type:'MP3/WAV · 8.9 GB',license:'PLR',image:'audio-track-bundles.svg'},
+ {id:'infographic-bundles',title:'Infographic Bundles',category:'Design',type:'AI/PSD · 7.6 GB',license:'PLR',image:'infographic-bundles.svg'},
+ {id:'brochure-flyer-templates',title:'Brochure & Flyer Kit',category:'Templates',type:'INDD/PSD · 6.9 GB',license:'PLR',image:'brochure-flyer-templates.svg'},
+ {id:'article-bundles',title:'Article Bundles',category:'Content',type:'DOCX/TXT · 6.9 GB',license:'PLR',image:'article-bundles.svg'},
+ {id:'tv-frame-artwork',title:'TV Frame Artwork',category:'Design',type:'JPG/PNG · 5.0 GB',license:'COMMERCIAL',image:'tv-frame-artwork.svg'},
+ {id:'coreldraw-templates',title:'CorelDraw Templates',category:'Templates',type:'CDR · 3.4 GB',license:'PLR',image:'coreldraw-templates.svg'},
+ {id:'photoshop-brush-bundles',title:'Photoshop Brushes',category:'Design',type:'ABR · 2.6 GB',license:'PLR',image:'photoshop-brush-bundles.svg'},
+ {id:'overlay-bundles',title:'Overlay Bundles',category:'Video',type:'MOV/PNG · 794 MB',license:'PLR',image:'overlay-bundles.svg'},
+ {id:'photoshop-action-bundles',title:'Photoshop Actions',category:'Design',type:'ATN · 362 MB',license:'PLR',image:'photoshop-action-bundles.svg'},
+ {id:'legal-business-templates',title:'Legal & Business Docs',category:'Templates',type:'DOCX · 10.1 MB',license:'COMMERCIAL',image:'legal-business-templates.svg'},
+ {id:'ai-tools-database',title:'AI Tools Database',category:'Content',type:'XLSX · 1.4 MB',license:'PLR',image:'ai-tools-database.svg'},
+ {id:'social-media-templates',title:'Social Media Templates',category:'Templates',type:'PSD/CANVA · 344 KB',license:'PLR',image:'social-media-templates.svg'}
 ];
 // Reading localStorage THROWS outright when site data is blocked (Safari
 // private mode, "block cookies", some embedded webviews), and JSON.parse

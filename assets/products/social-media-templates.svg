@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520" role="img" aria-label="Social Media Templates">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffdf9"/><stop offset="1" stop-color="#f3e6d0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="520" fill="url(#bg)"/>
+  <circle cx="712" cy="66" r="150" fill="#a5763f" opacity=".07"/>
+  <rect x="322" y="116" width="60" height="60" rx="12" fill="#a5763f" opacity="0.14"/><rect x="396" y="116" width="60" height="60" rx="12" fill="#a5763f" opacity="0.21000000000000002"/><rect x="470" y="116" width="60" height="60" rx="12" fill="#a5763f" opacity="0.28"/><rect x="544" y="116" width="60" height="60" rx="12" fill="#a5763f" opacity="0.35000000000000003"/><rect x="322" y="190" width="60" height="60" rx="12" fill="#a5763f" opacity="0.35000000000000003"/><rect x="396" y="190" width="60" height="60" rx="12" fill="#a5763f" opacity="0.42000000000000004"/><rect x="470" y="190" width="60" height="60" rx="12" fill="#a5763f" opacity="0.14"/><rect x="544" y="190" width="60" height="60" rx="12" fill="#a5763f" opacity="0.21000000000000002"/><rect x="322" y="264" width="60" height="60" rx="12" fill="#a5763f" opacity="0.21000000000000002"/><rect x="396" y="264" width="60" height="60" rx="12" fill="#a5763f" opacity="0.28"/><rect x="470" y="264" width="60" height="60" rx="12" fill="#a5763f" opacity="0.35000000000000003"/><rect x="544" y="264" width="60" height="60" rx="12" fill="#a5763f" opacity="0.42000000000000004"/>
+  <g font-family="Georgia,'Times New Roman',serif">
+    <text x="56" y="366" font-size="21" fill="#a5763f" letter-spacing="3.4"
+          font-family="Helvetica,Arial,sans-serif" font-weight="700">5,000+ · PLR</text>
+    <text x="56" y="428" font-size="46" fill="#33241e" font-weight="700">Social Media Templates</text>
+  </g>
+  <text x="56" y="470" font-size="19" fill="#33241e" opacity=".55"
+        font-family="Helvetica,Arial,sans-serif">ExhalePLR</text>
+  <rect x="0" y="513" width="800" height="7" fill="#a5763f" opacity=".55"/>
+</svg>
