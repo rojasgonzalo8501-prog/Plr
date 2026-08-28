@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520" role="img" aria-label="50,000+ Photoshop Assets">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#fffdf9"/><stop offset="1" stop-color="#eeead1"/></linearGradient></defs>
+  <rect width="800" height="520" fill="url(#g)"/>
+  <circle cx="712" cy="66" r="150" fill="#7f6b3a" opacity=".07"/>
+  <rect x="318" y="112" width="230" height="150" rx="14" fill="#7f6b3a" opacity="0.13"/><rect x="348" y="138" width="230" height="150" rx="14" fill="#7f6b3a" opacity="0.23"/><rect x="378" y="164" width="230" height="150" rx="14" fill="#7f6b3a" opacity="0.33"/><rect x="408" y="190" width="230" height="150" rx="14" fill="#7f6b3a" opacity="0.43"/>
+  <text x="56" y="366" font-size="21" fill="#7f6b3a" letter-spacing="3.4"
+        font-family="Helvetica,Arial,sans-serif" font-weight="700">50,000+</text>
+  <text x="56" y="428" font-size="46" fill="#33241e"
+        font-family="Georgia,'Times New Roman',serif" font-weight="700">Photoshop Assets</text>
+  <text x="56" y="470" font-size="19" fill="#33241e" opacity=".55"
+        font-family="Helvetica,Arial,sans-serif">ExhalePLR</text>
+  <rect x="0" y="513" width="800" height="7" fill="#7f6b3a" opacity=".55"/>
+</svg>
