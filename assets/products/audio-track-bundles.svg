@@ -1,14 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520" role="img" aria-label="5,000+ Audio Tracks">
-  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#fffdf9"/><stop offset="1" stop-color="#f3e6d0"/></linearGradient></defs>
-  <rect width="800" height="520" fill="url(#g)"/>
-  <circle cx="712" cy="66" r="150" fill="#a5763f" opacity=".07"/>
-  <rect x="292" y="179" width="7" height="26" rx="3.5" fill="#a5763f" opacity="0.30"/><rect x="307" y="152" width="7" height="80" rx="3.5" fill="#a5763f" opacity="0.51"/><rect x="322" y="133" width="7" height="119" rx="3.5" fill="#a5763f" opacity="0.66"/><rect x="337" y="127" width="7" height="130" rx="3.5" fill="#a5763f" opacity="0.70"/><rect x="352" y="137" width="7" height="110" rx="3.5" fill="#a5763f" opacity="0.62"/><rect x="367" y="159" width="7" height="66" rx="3.5" fill="#a5763f" opacity="0.45"/><rect x="382" y="171" width="7" height="42" rx="3.5" fill="#a5763f" opacity="0.36"/><rect x="397" y="145" width="7" height="94" rx="3.5" fill="#a5763f" opacity="0.56"/><rect x="412" y="130" width="7" height="125" rx="3.5" fill="#a5763f" opacity="0.68"/><rect x="427" y="128" width="7" height="127" rx="3.5" fill="#a5763f" opacity="0.69"/><rect x="442" y="142" width="7" height="99" rx="3.5" fill="#a5763f" opacity="0.58"/><rect x="457" y="167" width="7" height="50" rx="3.5" fill="#a5763f" opacity="0.39"/><rect x="472" y="163" width="7" height="58" rx="3.5" fill="#a5763f" opacity="0.42"/><rect x="487" y="139" width="7" height="105" rx="3.5" fill="#a5763f" opacity="0.60"/><rect x="502" y="128" width="7" height="129" rx="3.5" fill="#a5763f" opacity="0.70"/><rect x="517" y="131" width="7" height="122" rx="3.5" fill="#a5763f" opacity="0.67"/><rect x="532" y="149" width="7" height="87" rx="3.5" fill="#a5763f" opacity="0.53"/><rect x="547" y="175" width="7" height="34" rx="3.5" fill="#a5763f" opacity="0.33"/><rect x="562" y="155" width="7" height="74" rx="3.5" fill="#a5763f" opacity="0.48"/><rect x="577" y="135" width="7" height="115" rx="3.5" fill="#a5763f" opacity="0.64"/><rect x="592" y="127" width="7" height="130" rx="3.5" fill="#a5763f" opacity="0.70"/><rect x="607" y="135" width="7" height="114" rx="3.5" fill="#a5763f" opacity="0.64"/><rect x="622" y="156" width="7" height="73" rx="3.5" fill="#a5763f" opacity="0.48"/><rect x="637" y="175" width="7" height="35" rx="3.5" fill="#a5763f" opacity="0.33"/><rect x="652" y="148" width="7" height="88" rx="3.5" fill="#a5763f" opacity="0.54"/><rect x="667" y="131" width="7" height="122" rx="3.5" fill="#a5763f" opacity="0.67"/><rect x="682" y="128" width="7" height="129" rx="3.5" fill="#a5763f" opacity="0.69"/><rect x="697" y="140" width="7" height="105" rx="3.5" fill="#a5763f" opacity="0.60"/><rect x="712" y="163" width="7" height="58" rx="3.5" fill="#a5763f" opacity="0.42"/><rect x="727" y="167" width="7" height="51" rx="3.5" fill="#a5763f" opacity="0.40"/><rect x="742" y="142" width="7" height="100" rx="3.5" fill="#a5763f" opacity="0.58"/><rect x="757" y="128" width="7" height="127" rx="3.5" fill="#a5763f" opacity="0.69"/><rect x="772" y="130" width="7" height="125" rx="3.5" fill="#a5763f" opacity="0.68"/><rect x="787" y="146" width="7" height="93" rx="3.5" fill="#a5763f" opacity="0.56"/>
-  <text x="56" y="366" font-size="21" fill="#a5763f" letter-spacing="3.4"
-        font-family="Helvetica,Arial,sans-serif" font-weight="700">5,000+</text>
-  <text x="56" y="428" font-size="46" fill="#33241e"
-        font-family="Georgia,'Times New Roman',serif" font-weight="700">Audio Tracks</text>
-  <text x="56" y="470" font-size="19" fill="#33241e" opacity=".55"
-        font-family="Helvetica,Arial,sans-serif">ExhalePLR</text>
-  <rect x="0" y="513" width="800" height="7" fill="#a5763f" opacity=".55"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 620" width="760" height="620" role="img" aria-label="Audio Track Bundles">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#fffdf9"/><stop offset="1" stop-color="#efe6d7"/></linearGradient>
+  <linearGradient id="f" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#5c584a"/><stop offset="1" stop-color="#4a4636"/></linearGradient>
+  <linearGradient id="s" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#2b291f"/><stop offset="1" stop-color="#2b291f"/></linearGradient>
+  <linearGradient id="t" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#87847a"/><stop offset="1" stop-color="#666356"/></linearGradient>
+  <linearGradient id="gloss" x1="0" y1="0" x2=".8" y2="1">
+    <stop offset="0" stop-color="#fff" stop-opacity=".20"/>
+    <stop offset=".38" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <linearGradient id="refl" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#4a4636" stop-opacity=".26"/>
+    <stop offset="1" stop-color="#4a4636" stop-opacity="0"/></linearGradient>
+  <radialGradient id="sh">
+    <stop offset="0" stop-color="#3a2a1c" stop-opacity=".40"/>
+    <stop offset="1" stop-color="#3a2a1c" stop-opacity="0"/></radialGradient>
+</defs>
+
+<rect width="760" height="620" fill="url(#bg)"/>
+<circle cx="640" cy="86" r="150" fill="#d8ae6c" opacity=".10"/>
+
+<!-- mirrored reflection under the box, fading out -->
+<g transform="translate(0,1044) scale(1,-1)" opacity=".5">
+  <rect x="196" y="92" width="330" height="430" fill="url(#refl)"/>
+</g>
+<ellipse cx="381.0" cy="538" rx="218" ry="22" fill="url(#sh)"/>
+
+<path d="M196 92 L258 50 L588 50 L526 92 Z" fill="url(#t)"/>
+<path d="M526 92 L588 50 L588 480 L526 522 Z" fill="url(#s)"/>
+<rect x="196" y="92" width="330" height="430" fill="url(#f)"/>
+<rect x="196" y="92" width="330" height="430" fill="url(#gloss)"/>
+<rect x="524" y="92" width="2" height="430" fill="#fff" opacity=".18"/>
+
+<!-- front face -->
+<rect x="226" y="136" width="46" height="3" fill="#d8ae6c"/>
+<text x="226" y="176" font-size="16" fill="#d8ae6c"
+      font-family="Helvetica,Arial,sans-serif" font-weight="700" letter-spacing="2.6">5,000+</text>
+<text x="226" y="283" font-size="37" fill="#fbf8f2" font-family="Georgia,serif" font-weight="700">Audio Track</text><text x="226" y="329" font-size="37" fill="#fbf8f2" font-family="Georgia,serif" font-weight="700">Bundles</text>
+<line x1="226" y1="448" x2="496" y2="448" stroke="#fbf8f2" stroke-opacity=".22"/>
+<text x="226" y="480" font-size="17" fill="#fbf8f2" opacity=".78"
+      font-family="Georgia,serif">Exhale<tspan fill="#d8ae6c">PLR</tspan></text>
 </svg>
